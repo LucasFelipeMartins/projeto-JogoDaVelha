@@ -20,7 +20,7 @@ HTML5 → Estrutura do jogo
 
 CSS3 → Estilização e layout do tabuleiro
 
-JavaScript (ES6+) → Lógica do jogo e interatividade
+JavaScript → Lógica do jogo e interatividade
 
 📌 Aprendizados
 
